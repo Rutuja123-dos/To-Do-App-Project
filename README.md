@@ -34,11 +34,14 @@ A robust Command-Line Interface (CLI) application built to manage daily tasks ef
 
 3. Run the script via terminal:
 
+   python todo_app.py
 
-python todo_app.py
 ## 🧠 Future Enhancements
 * Implement File Handling to save tasks to a .txt or .json file so they persist after closing the app.
 
 * Add a GUI version using Tkinter.
 
 * Include Timestamps for when tasks are added.
+
+## Author
+Rutuja Wagh
