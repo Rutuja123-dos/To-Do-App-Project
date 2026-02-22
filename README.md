@@ -1,4 +1,4 @@
-## 📝 To-Do App
+ ## 📝 To-Do App
 A robust Command-Line Interface (CLI) application built to manage daily tasks efficiently. This project demonstrates core programming concepts like list manipulation, infinite loops, and conditional logic in Python.
 
 ## 🚀 Features
