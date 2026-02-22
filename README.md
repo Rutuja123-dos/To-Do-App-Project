@@ -6,7 +6,7 @@ A robust Command-Line Interface (CLI) application built to manage daily tasks ef
 
 ## CRUD Functionality: 
 
-* Create: Add new tasks dynamically.
+* Create: Add new tasks dynamically. 
 
 * Read: View the entire list of tasks at any time.
 
