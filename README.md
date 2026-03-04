@@ -1,10 +1,10 @@
- ## 📝 To-Do App
+## 📝 To-Do App
 A robust Command-Line Interface (CLI) application built to manage daily tasks efficiently. This project demonstrates core programming concepts like list manipulation, infinite loops, and conditional logic in Python.
 
-## 🚀 Features
+# 🚀 Features
 * Batch Initialization: Allows users to input a set number of tasks at the start.
 
-## CRUD Functionality: 
+# CRUD Functionality: 
 
 * Create: Add new tasks dynamically. 
 
@@ -18,7 +18,7 @@ A robust Command-Line Interface (CLI) application built to manage daily tasks ef
 
 * Graceful Exit: Option to safely close the application.
 
-## 🛠️ Concepts Applied
+# 🛠️ Concepts Applied
 * Functions: Encapsulated logic within the task() function.
 
 * Data Structures: Utilized Python Lists for dynamic data storage.
@@ -27,7 +27,7 @@ A robust Command-Line Interface (CLI) application built to manage daily tasks ef
 
 * Indexing: Used .index() to find and modify specific elements in the task list.
 
-## 📋 How to Run
+# 📋 How to Run
 1. Ensure you have Python installed.
 
 2. Copy the code into a file named todo_app.py.
@@ -36,12 +36,12 @@ A robust Command-Line Interface (CLI) application built to manage daily tasks ef
 
    python todo_app.py
 
-## 🧠 Future Enhancements
+# 🧠 Future Enhancements
 * Implement File Handling to save tasks to a .txt or .json file so they persist after closing the app.
 
 * Add a GUI version using Tkinter.
 
 * Include Timestamps for when tasks are added.
 
-## Author
+# Author
 Rutuja Wagh
